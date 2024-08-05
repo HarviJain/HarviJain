@@ -1,4 +1,4 @@
-## <p align="center">👋 Hi there, I'm Harvi Jain!</p>
+# <p align="center">👋 Hi there, I'm Harvi Jain!</p>
 
 ## 🚀 About Me
 
@@ -25,9 +25,6 @@ I'm an enthusiastic B.Tech Computer Engineering student at Silver Oak University
 
 ### 🎬 Internet Movie Inventory (IMI)
 A free movie search site using The Movie Database API. Built with HTML, CSS, and JavaScript.
-
-### 📄 One Page Profile
-A dynamic one-page profile showcasing personal information in a visually appealing format.
 
 ### 💬 QuickQuote
 A web application that provides random quotes for instant inspiration using the Quotable API.
